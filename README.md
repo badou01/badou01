@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @badou01
-- 👀 I’m interested in informatics
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in informatics and IT
+- 🌱 I’m currently learning Web Development and Software Eng
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
